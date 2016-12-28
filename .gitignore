@@ -1,0 +1,6 @@
+packages/*
+.gitignore
+.vs/*
+.idea/*
+bin/*
+obj/*
